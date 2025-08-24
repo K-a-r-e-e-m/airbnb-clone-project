@@ -9,3 +9,6 @@ Backend Developer Javascript & Python
 
 ## Database Design
 Users, Properties, Bookings, Reviews, and Payments
+
+## Feature Breakdown
+user management, property management, booking system
