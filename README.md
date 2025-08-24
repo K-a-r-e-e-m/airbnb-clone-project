@@ -7,3 +7,5 @@ Backend Developer
 ## Technology Stack
 Backend Developer Javascript & Python
 
+## Database Design
+Users, Properties, Bookings, Reviews, and Payments
